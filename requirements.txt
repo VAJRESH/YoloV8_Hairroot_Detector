@@ -1,5 +1,4 @@
 ultralytics
 flask
 waitress
-PIL
-json
+Pillow
